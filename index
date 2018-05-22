@@ -1,5 +1,5 @@
-<!DOCTYPE>
-<html>
+<!DOCTYPE>  //states using html5
+<html>//everything in this tag can be seen
   <head>
     <title>
     </title>
@@ -7,3 +7,5 @@
   <body>
   </body>
 </html>
+
+
